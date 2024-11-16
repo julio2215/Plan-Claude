@@ -14,7 +14,7 @@ Este plan está diseñado para convertirte en un desarrollador Java Backend juni
 ## 📚 Mes 1: Fundamentos Java y POO
 ### Semana 1-2: Java Core
 - **Temas**:
-  - Sintaxis avanzada de Java
+  \_subrayado\_- Sintaxis avanzada de Java\_subrayado\_
   - Manejo de excepciones
   - Colecciones (List, Set, Map)
   - Genéricos
